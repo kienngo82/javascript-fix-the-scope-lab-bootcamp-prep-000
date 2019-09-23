@@ -28,4 +28,5 @@ var funkyFunction = function() {
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
+//Never in a million would I have figure this one one out. YOu call a function within a function from () adding another (). Therefore ()() is your answer here.
 var theFunk = funkyFunction()();
